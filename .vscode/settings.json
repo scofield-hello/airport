@@ -1,0 +1,8 @@
+{
+    "python.pythonPath": "C:\\Users\\Nickey\\.virtualenvs\\airport-pKkgWJMI\\Scripts\\python.exe",
+    "python.linting.pylintEnabled": true,
+    "python.linting.enabled": true,
+    "python.formatting.provider": "yapf",
+    "editor.formatOnSave": true,
+    "cSpell.enabled": false,
+}
